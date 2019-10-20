@@ -1,0 +1,6 @@
+D:\[OOP] - Object Oriented Programming\Test\7_6_WritingTheSecondTest\7_6_WritingTheSecondTest\bin\Debug\7_6_WritingTheSecondTest.exe.config
+D:\[OOP] - Object Oriented Programming\Test\7_6_WritingTheSecondTest\7_6_WritingTheSecondTest\bin\Debug\7_6_WritingTheSecondTest.exe
+D:\[OOP] - Object Oriented Programming\Test\7_6_WritingTheSecondTest\7_6_WritingTheSecondTest\bin\Debug\7_6_WritingTheSecondTest.pdb
+D:\[OOP] - Object Oriented Programming\Test\7_6_WritingTheSecondTest\7_6_WritingTheSecondTest\obj\Debug\7_6_WritingTheSecondTest.csprojAssemblyReference.cache
+D:\[OOP] - Object Oriented Programming\Test\7_6_WritingTheSecondTest\7_6_WritingTheSecondTest\obj\Debug\7_6_WritingTheSecondTest.exe
+D:\[OOP] - Object Oriented Programming\Test\7_6_WritingTheSecondTest\7_6_WritingTheSecondTest\obj\Debug\7_6_WritingTheSecondTest.pdb
